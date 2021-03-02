@@ -8,7 +8,7 @@ using namespace std;
 
 
 //User function template for C++
-
+ 
 class Solution{
 public:
 	bool recreationalSpot(int arr[], int n)
